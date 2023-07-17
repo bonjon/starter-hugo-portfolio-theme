@@ -28,12 +28,19 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: Blockchain
+      tag: BC
+    - name: Software Engineering
+      tag: SE
     - name: Computer Vision
       tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Big Data
+      tag: BD
+    - name: Cloud Computing
+      tag: CC
+    - name: Computer Networks
+      tag: CN
+      
 
 design:
   columns: '1'

@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: sapienza
     location: Rome
-    date_start: 'Oct 2021'
-    date_end: 'Oct 2023'
+    date_start: '2021-10-01'
+    date_end: '2023-10-01'
     description: |2-
         #* Dissertation on Y
         #* Basketball team
@@ -39,8 +39,8 @@ experience:
     company_url: ''
     company_logo: torvergata
     location: Rome
-    date_start: 'Oct 2017'
-    date_end: 'Oct 2021'
+    date_start: '2017-10-01'
+    date_end: '2021-10-01'
     description: #My dissertation was on X
 
 design:

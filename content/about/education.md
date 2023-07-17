@@ -25,7 +25,7 @@ experience:
   - title: Computer Science
     company: Sapienza University of Rome
     company_url: ''
-    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Stemma_sapienza.png'
+    company_logo: sapienza
     location: Rome
     date_start: 'Oct 2021'
     date_end: 'Oct 2023'
@@ -37,7 +37,7 @@ experience:
   - title: Computer Engineering
     company: Tor Vergata University of Rome
     company_url: ''
-    company_logo: 'https://dilisonlus.files.wordpress.com/2017/06/logo-uni-tor-vergata-e1497394938932.png'
+    company_logo: torvergata
     location: Rome
     date_start: 'Oct 2017'
     date_end: 'Oct 2021'

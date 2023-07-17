@@ -25,11 +25,11 @@ experience:
   - title: Computer Science
     company: Sapienza University of Rome
     company_url: ''
-    company_logo: Uniroma1
+    company_logo: sapienza
     location: Rome
     date_start: '2021-10-01'
     date_end: '2023-10-01'
-    description: |2-
+    description: # |2-
         #* Dissertation on Y
         #* Basketball team
         #* DJ club

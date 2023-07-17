@@ -25,7 +25,7 @@ experience:
   - title: Computer Science
     company: Sapienza University of Rome
     company_url: ''
-    company_logo: sapienza
+    company_logo: Uniroma1
     location: Rome
     date_start: '2021-10-01'
     date_end: '2023-10-01'

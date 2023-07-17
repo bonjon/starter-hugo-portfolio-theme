@@ -25,10 +25,10 @@ experience:
   - title: Computer Science
     company: Sapienza University of Rome
     company_url: ''
-    company_logo: org-x
+    company_logo: https://upload.wikimedia.org/wikipedia/commons/a/a5/Stemma_sapienza.png
     location: Rome
-    date_start: '2021'
-    date_end: '2023'
+    date_start: 'Oct 2021'
+    date_end: 'Oct 2023'
     description: |2-
         #* Dissertation on Y
         #* Basketball team
@@ -37,10 +37,10 @@ experience:
   - title: Computer Engineering
     company: Tor Vergata University of Rome
     company_url: ''
-    company_logo: org-x
+    company_logo: https://dilisonlus.files.wordpress.com/2017/06/logo-uni-tor-vergata-e1497394938932.png
     location: Rome
-    date_start: '2017'
-    date_end: '2021'
+    date_start: 'Oct 2017'
+    date_end: 'Oct 2021'
     description: #My dissertation was on X
 
 design:

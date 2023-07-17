@@ -44,14 +44,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:giovanni.pica1998@gmail.com # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://www.linkedin.com/in/giovanni-pica-86a901223/
 # Uncomment below for Github link
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bonjon
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,8 +63,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently a master student from Sapienza Università di Roma. In my 5+ years of university, I've worked on projects covering topics like Machine Learning, Deep Learning, Natural Language Processing, Big Data, Software Engineering, Blockchain, Computer Networks, Cloud Computing, Security in Software Applications, Computer Vision, and so on. I'm particularly interested in Machine Learning and Distributed Systems, so I've decided to work on a master thesis that is a perfect connection between those two areas which is Federated Learning. In particular, my master's thesis will cover the possible attacks and defenses on a Decentralized Federated Learning approach.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

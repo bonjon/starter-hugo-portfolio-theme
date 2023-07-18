@@ -32,10 +32,8 @@ content:
       tag: BC
     - name: Software Engineering
       tag: SE
-    - name: Computer Vision
-      tag: CV
-    - name: Big Data
-      tag: BD
+    - name: Machine Learning
+      tag: ML
     - name: Cloud Computing
       tag: CC
     - name: Computer Networks

@@ -1,6 +1,6 @@
 ---
-title: Ro.Bo.
-summary: The goals of that project were the automatic rigging of a human body from a picture and animate it. First of all we take a picture and create a 3D model thanks to PIFUHD, after we rig it with RigNet and finally animate it with a script in Panda3D. It was a group project and I've worked in particular in the part where we create the 3D model and rig it.
-date: 2022-2023
-external_link: https://github.com/bonjon/Ro.Bo.
+title: AN Homeworks
+summary: This is a repo where there are all of the 3 homeworks of the course Autonomous Networking. The problem that is discussed in these works is the Patrolling Scenario Problem, based on creating a Reinforcement Learning Routing Protocol for deciding to keep or send a packet to other neighbours drones.
+date: 2021-2022
+external_link: https://github.com/bonjon/AutonomousNetworking
 ---

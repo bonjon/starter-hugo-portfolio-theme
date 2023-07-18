@@ -1,6 +1,6 @@
 ---
-title: Ro.Bo.
-summary: The goals of that project were the automatic rigging of a human body from a picture and animate it. First of all we take a picture and create a 3D model thanks to PIFUHD, after we rig it with RigNet and finally animate it with a script in Panda3D. It was a group project and I've worked in particular in the part where we create the 3D model and rig it.
-date: 2022-2023
-external_link: https://github.com/bonjon/Ro.Bo.
+title: DBet
+summary: DBet is a decentralized application implemented in Solidity that allows users to perform sport bets on the blockchain. In this way there are no third-party bookmakers, meaning that the user doesn’t leak personal information and also he doesn’t lose the margin. If a gambler wins enough bets, he can buy (with a special token that will be
+presented later) some fancy NFTs that he can then sell on the market for ETH.
+external_link: https://github.com/bonjon/DBet
 ---

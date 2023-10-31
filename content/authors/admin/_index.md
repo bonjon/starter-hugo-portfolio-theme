@@ -65,4 +65,4 @@ social:
 
 I've studied at Sapienza Università di Roma. In my 5+ years of university, I've worked on projects covering topics like Machine Learning, Deep Learning, Natural Language Processing, Big Data, Software Engineering, Blockchain, Computer Networks, Cloud Computing, Security in Software Applications, Computer Vision, and so on. I'm particularly interested in Machine Learning and Distributed Systems, so I've decided to work on a master thesis that is a perfect connection between those two areas which is Federated Learning. In particular, my master's thesis covers the possible attacks and defenses on a Decentralized Federated Learning approach.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "static/A_Customised_CurVe_CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
